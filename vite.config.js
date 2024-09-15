@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "cw-07-jinhonglin-ryan", /* TODO: update to your repository name */
+  base: "todo-app", /* TODO: update to your repository name */
 });
